@@ -1,0 +1,15 @@
+label {
+    display: inline-flex;
+    font: .9rem 'Fira Sans', sans-serif;
+    width : 150px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+    width : 150px;
+    margin: 0px;
+    box-sizing: border-box;
+}
